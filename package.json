@@ -1,0 +1,26 @@
+{
+  "name": "fs-ensure-symlink",
+  "main": "./fs-ensure-symlink.js",
+  "dependencies": {
+    "bluebird": "^2.9.34"
+  },
+  "version": "0.0.1",
+  "description": "Ensure a symlink with Node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reggi/node-fs-ensure-symlink.git"
+  },
+  "keywords": [
+    "fs",
+    "symlink"
+  ],
+  "author": "Thomas Reggi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reggi/node-fs-ensure-symlink/issues"
+  },
+  "homepage": "https://github.com/reggi/node-fs-ensure-symlink#readme"
+}
